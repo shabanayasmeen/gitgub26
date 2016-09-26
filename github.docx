@@ -1,0 +1,75 @@
+tHub
+BitBucket
+Gerrit 
+As a central repo’s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Created repo and done with first commit.
+I will register my self into GitHub
+User ID : sreendsr
+I will add this repository in to GitHub
+Syntax : 
+git remote add orign uril : adds our local repo to GitHub
+https://github.com/sreendsr/git_hub_repo.git
+I will share URL to you ppl 
+You can clone repo 
+git clone https://github.com/sreendsr/git_hub_repo.git
+You do modifications and You commit the changes and you can push the changes to Repo : git hub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git init
+git add
+git status
+git log
+git commit –m “message”
+git branch branch_name
+git checkout branch_name
+git –d branch_name
+Registering in to gitHub
+Adding our local_Repo to GitHub
+ git remote add orign_uril
+ git push origin master
+ How to copy repo from GitHub to your local system
+ git clone repo_url
+ How to get the updates from git_hub
+ git pull
+
